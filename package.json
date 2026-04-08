@@ -18,7 +18,10 @@
     "tailwind-merge": "^2.5.4",
     "zustand": "^5.0.1",
     "pako": "^2.1.0",
-    "sharp": "^0.33.5"
+    "sharp": "^0.33.5",
+    "next-seo": "^6.6.0",
+    "react-dropzone": "^14.2.10",
+    "fflate": "^0.8.2"
   },
   "devDependencies": {
     "typescript": "^5.0.0",
