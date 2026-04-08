@@ -53,7 +53,7 @@
     "react-dropzone": "^14.3.8",
     "sharp": "^0.34.3",
     "@types/node": "^20",
-    "typescript": "^5"
+    "typescript": "^5",
     "tailwind-merge": "^3.3.1",
     "zustand": "^5.0.7"
   },
