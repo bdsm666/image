@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "next": "15.0.3",
-    "react": "19.0.0-rc-662071d5b4-20241024",
-    "react-dom": "19.0.0-rc-662071d5b4-20241024",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "sharp": "^0.33.5",
     "typescript": "^5",
     "@types/node": "^20",
